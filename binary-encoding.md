@@ -1,0 +1,1 @@
+The solution is a binary code converted to a decimal number.
