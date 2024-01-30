@@ -1,0 +1,1 @@
+The solution is hidden in the source code of the page. You must use a development tool to see its content
