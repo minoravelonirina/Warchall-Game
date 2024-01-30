@@ -1,0 +1,1 @@
+The solution is encoded in the sequence of numbers, it gives us a link to help us to understand the purpose of ACSII encoding.
